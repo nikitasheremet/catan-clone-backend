@@ -6,6 +6,5 @@ Link to Front End -> https://github.com/nikitasheremet/catan-clone
 ## Technology
 
 - Node
-  - Express
 - GraphQL
 - MongoDB
