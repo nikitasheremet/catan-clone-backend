@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "outDir": "dist",
+    "declaration": true,
+    "target": "ES5",
+    "lib": ["ES5", "dom"],
+    "moduleResolution": "node",
+    "module": "commonjs",
+    "experimentalDecorators": true
+  },
+  "exclude": ["node_modules", "scripts", "dist"]
+}
