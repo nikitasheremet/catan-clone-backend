@@ -1,0 +1,26 @@
+{
+  "name": "catan-clone-backend",
+  "version": "0.0.1",
+  "description": "Backend Repo for Catan Clone",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "rm -rf dist && tsc",
+    "prebuild": "rm -rf dist && tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nikitasheremet/catan-clone-backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nikitasheremet/catan-clone-backend/issues"
+  },
+  "homepage": "https://github.com/nikitasheremet/catan-clone-backend#readme",
+  "devDependencies": {
+    "tslint": "^6.1.1",
+    "typescript": "^3.8.3"
+  }
+}
